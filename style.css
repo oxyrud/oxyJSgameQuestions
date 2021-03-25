@@ -1,0 +1,67 @@
+.slide {
+    margin: 10px 0 50px 50px;
+    margin-bottom: 50px;
+}
+
+.choose {
+    background-color: #F8E0F7;
+    border-color: #F781BE;
+    border-radius: 5px;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.btn {
+    display: block;
+    background-color: #04B4AE;
+    border-color: #0B3861;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    margin: 0 auto 20px auto;
+}
+
+.result {
+    display: block;
+    background-color: #00FFBF;
+    border-color: #0B3861;
+    border-radius: 5px;
+    font-size: 20px;
+    font-color: #FE9A2E; 
+    margin: auto;  
+}
+
+.beginning {
+  text-align: center;
+}
+
+.form {
+  margin: 100px 0 100px 0;
+}
+
+.startbtn {
+  background-color: #FA5882;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-bottom: 20px;
+  width: 200px; 
+}
+
+.error {
+  border :1px solid red;
+}
+
+.error_block {
+  color: red;
+}
+
+.restartbtn {
+  background-color: #FA5882;
+  border-radius: 5px;
+  font-size: 20px;
+  width: 200px; 
+  margin: 20% auto 0 auto;
+  }
